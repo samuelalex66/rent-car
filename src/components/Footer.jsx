@@ -16,13 +16,13 @@ function Footer() {
                                 have the perfect car to meet your needs.
                             </li>
                             <li>
-                                <a href="">
+                                <a href="https://wa.me">
                                     <IconPhoneCall /> &nbsp; +62812345678
                                 </a>
                             </li>
 
                             <li>
-                                <a href="">
+                                <a href="https://wa.me">
                                     <IconMail /> &nbsp; email@email.com
                                 </a>
                             </li>
@@ -31,7 +31,7 @@ function Footer() {
                         <ul className="footer-content__2">
                             <li>Company</li>
                             <li>
-                                <a href="">Jakarta</a>
+                                <a href="#home">Jakarta</a>
                             </li>
                             <li>
                                 <a href="#home">Careers</a>
